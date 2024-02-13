@@ -27,9 +27,7 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariela-t&theme=dracula" alt="mariela-t" /></a> </p>
 
-<br>
 
 <p><a href="https://www.buymeacoffee.com/m.tinoco"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="m.tinoco" /></a></p><br><br>
 
