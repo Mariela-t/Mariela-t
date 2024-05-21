@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariela Tinoco Rojas</h1>
-<h3 align="center">A passionate frontend developer from California 👩‍💻</h3>
+<h3 align="center">A passionate developer from California 👩‍💻</h3>
 
 - 🌱 I’m currently learning **Ruby on Rails and next is Node.**
 
