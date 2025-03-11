@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariela Tinoco Rojas</h1>
 <h3 align="center">A passionate developer from California 👩‍💻</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails and next is Node.**
+- 🌱 I’m currently an Apprentice Developer at Code the Dream.
 
 - ⚡ Fun fact **I love to learn new things, as well as going to concerts 🎤 and baking 🧁.**
 
